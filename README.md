@@ -900,6 +900,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [MovableJoystick](https://github.com/uranuno/MovableJoystick) - Movable Joystick
 - [Simple_Joystick_Unity](https://github.com/tim-hub/Simple_Joystick_Unity) - A simple joystick
+- [UniJoystick](https://github.com/Bian-Sh/UniJoystick) - It is a powerful joystick component for UGUI.
 - [virtual-joystick-unity](https://github.com/maydinunlu/virtual-joystick-unity) - Virtual Joystick for Mobile Devices with Unity
 - [Unity3D-Simple-Mobile-Joystick](https://github.com/syncoder/Unity3D-Simple-Mobile-Joystick) - Mobile Joystick suitable for any types of game
 
