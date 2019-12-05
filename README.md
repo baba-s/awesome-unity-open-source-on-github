@@ -848,6 +848,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Message Bus
 
 - [BasicEventBus](https://github.com/pointcache/BasicEventBus) - Basic event bus
+- [UniEventSystem](https://github.com/Bian-Sh/UniEventSystem) - A generic Event-Bus
 - [Unibus](https://github.com/mattak/Unibus) - Unibus is event passing system
 - [klab-messagebuses-unity](https://github.com/KLab/klab-messagebuses-unity) - Message bus
 - [signals](https://github.com/yankooliveira/signals) - A typesafe, lightweight messaging lib
@@ -951,6 +952,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [OnDestroyCallback.cs](https://gist.github.com/PopupAsylumUK/43c53390cf2cd6351657de2ed7ee8f90) - OnDestroy event
 - [Unity3D-ExtendedEvent](https://github.com/Thundernerd/Unity3D-ExtendedEvent) - A UnityEvent replacement
 - [UnityAnimatorEvents](https://github.com/forestrf/UnityAnimatorEvents) - UnityEvents triggered by states inside an Animator
+- [Unity-MecanimEventSystem](https://github.com/Bian-Sh/Unity-MecanimEventSystem) - Chain programming style callback System for Animator
 
 ## Object Pooling
 
