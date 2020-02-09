@@ -407,7 +407,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [hierarchy-icons](https://github.com/mminer/hierarchy-icons) - Unity extension to show component icons in the Hierarchy
 - [Unity-HierarchyHelper](https://github.com/gydisme/Unity-HierarchyHelper) - The fastest way to create Unity Hierarchy GUI items ever
 - [EditorGUIHierarchyView](https://github.com/miguel12345/EditorGUIHierarchyView) - Easily add a Hierarchy view (like Unity's scene view) to your Editor UI
-
+- [Unity Hierarchy Menu Customizer](https://github.com/baba-s/unity-hierarchy-menu-customizer) - Customize the menu that appears when you right-click on Hierarchy
 
 ## Project View
 
@@ -415,6 +415,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [ProjectPaneExtensions.cs](https://gist.github.com/Tenebrous/db7f6e9087d34b73de5d45c82263d131) - Add extensions
 - [unity3d-rainbow-folders](https://github.com/PhannGor/unity3d-rainbow-folders) - Allows you to set custom icons for any folder in unity project browser
 - [CustomInspectorCreator.cs](https://gist.github.com/LotteMakesStuff/cb63e4e25e5dfdda19a95380e9c03436) - Adds a tool to automagically generate boilerplate custom inspector code
+- [Unity Project Window Menu Customizer](https://github.com/baba-s/unity-project-window-menu-customizer) - Customize the menu that appears when you right-click on Project view
 
 ## Inspector
 
@@ -618,6 +619,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) - Git extension for Unity Package Manager
 - [ScriptFinder](https://github.com/JoebRogers/ScriptFinder) - Find script references within your project in seconds
 - [uni-gist](https://github.com/baba-s/uni-gist) - Editor extension that lets you post scripts to Gist from Unity
+- [Unity Package Asset Deleter](https://github.com/baba-s/unity-package-asset-deleter) - Delete assets added with .unitypackage
 - [unity-regex-builder](https://github.com/karl-/unity-regex-builder) - A simple regular expression evaluator inside Unity
 - [EditorCollapseAll.cs](https://gist.github.com/yasirkula/0b541b0865eba11b55518ead45fba8fc) - Collapse all GameObject's or to collapse all folders
 - [UnityElevatorCompiler](https://github.com/m3rt32/UnityElevatorCompiler) - Plays elevator music while Unity compiles your code
@@ -938,6 +940,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Gizmo
 
 - [FastGizmosUnity](https://github.com/sverdegd/FastGizmosUnity) - Set of gizmos utilities
+- [DrawGizmo](https://github.com/Eldoir/DrawGizmo) - Display a gizmo on any GameObject
 - [GizmoExtensions](https://github.com/code-beans/GizmoExtensions) - Utility class(es) that extend Unity's Gizmos
 - [GizmosPlus](https://github.com/zchfvy/GizmosPlus) - A Unity Package that provides additional GIzmo shapes and tools
 
@@ -958,6 +961,10 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [RecyclerKit](https://github.com/prime31/RecyclerKit) - Object pool manager
 - [prototype](https://github.com/inkle/prototype) - Prototype component pattern
+
+## WebGL
+
+- [WebGLInput](https://github.com/kou-yeung/WebGLInput) - IME for Unity WebGL
 
 ## Utility
 
@@ -980,6 +987,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Unity3D-Python-Editor](https://github.com/cesardeazevedo/Unity3D-Python-Editor) - Python editor based on IronPython
 - [unity-gb](https://github.com/KonsomeJona/unity-gb) - Game Boy emulator for Unity using C# and Mono
 - [Unity-LineSegmentsIntersection](https://github.com/setchi/Unity-LineSegmentsIntersection) - Line segments intersection
+- [Unity Scene Data Transfer](https://github.com/baba-s/unity-scene-data-transfer) - Easily pass data at scene transition
 - [UnityProminentColor](https://github.com/Mukarillo/UnityProminentColor) - Tool to gather main colors of an image
 - [unity-movement-ai](https://github.com/antonpantev/unity-movement-ai) - A Unity library for common movement AI
 - [uni-web-view-margins-from-rect-transform](https://github.com/baba-s/uni-web-view-margins-from-rect-transform) - Web view margin
@@ -1202,6 +1210,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [StringBuilderTemporary](https://github.com/wotakuro/StringBuilderTemporary) - C# string operation utility
 - [Relay](https://github.com/SixWays/Relay) - Fast, powerful, GC-friendly C# signals/events
+- [ProjectAuditor](https://github.com/mtrive/ProjectAuditor) - An experimental static analysis tool
 - [FastString](https://github.com/snozbot/FastString) - Alternative to StringBuilder class for Unity games
 - [UnityHeapDump](https://github.com/Zuntatos/UnityHeapDump) - Tool to dump memory to text files for inspection
 - [DTCompileTimeTracker](https://github.com/DarrenTsung/DTCompileTimeTracker) - Unity editor extension which tracks compile time
