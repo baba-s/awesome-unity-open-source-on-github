@@ -1014,6 +1014,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [unity-command-controller](https://github.com/baba-s/unity-command-controller) - A simple library that can control commands to implement event scripts
 - [XRLineRenderer](https://github.com/Unity-Technologies/XRLineRenderer) - Mimics rendering with 3d capsules while only using two quads worth of geometry
 - [UnityWebglResponsiveTemplate](https://github.com/miguel12345/UnityWebglResponsiveTemplate) - A full-sized responsive minimal webgl template for your Unity projects
+- [vlc-unity](https://github.com/videolan/vlc-unity) - LibVLC plugin for Unity to integrate playback inside your Unity apps and games using LibVLCSharp
 - [Unity-Save-Play-Mode-Changes](https://github.com/inkle/Unity-Save-Play-Mode-Changes) - Allowing changes made in play mode to be restored upon stopping the game
 - [smooth.foundations](https://github.com/pdo400/smooth.foundations) - Foundations for boosting productiviy and writing clean, maintainable, allocation-free code
 - [InstantiatePostProcessingProfile.cs](https://gist.github.com/yagero/d4b377a4fa318b01f6b6e9c5a533141b) - Use this class to dynamically instantiate the PostProcessingProfile at runtime
