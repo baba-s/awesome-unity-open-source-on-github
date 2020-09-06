@@ -55,6 +55,7 @@ A categorized collection of awesome Unity open source on GitHub.
     - [3D Model](#3D-Model)
     - [Color](#Color)
     - [Utility](#Utility)
+	- [PlayerPrefsExtension]
 - [UI](#UI)
     - [Shader Collection](#Shader-Collection)
     - [Shader](#Shader)
@@ -637,6 +638,11 @@ A categorized collection of awesome Unity open source on GitHub.
 - [VikingReSize](https://github.com/norseware/VikingReSize) - Analyzes your project and displays how much space files take up specified by custom categories
 - [Unity-EdgeCollider2D-to-PolygonCollider2D-](https://github.com/JuanGdelaCruz/Unity-EdgeCollider2D-to-PolygonCollider2D-) - Editor tool which converts EdgeCollider2D to PolygonCollider2D
 - [unity-compile-in-background](https://github.com/baba-s/unity-compile-in-background) - Start compiling without having to return focus to the Unity editor after changing the script
+
+## PlayerPrefabExtensions
+
+- [PlayerPrefabExtensions](https://github.com/sabresaurus/PlayerPrefsEditor) - An extension list all PlayerPrefabs in Windows/Mac and allow add/encrypt data save to PlayerPrefab Unity.
+
 
 # UI
 
