@@ -55,7 +55,7 @@ A categorized collection of awesome Unity open source on GitHub.
     - [3D Model](#3D-Model)
     - [Color](#Color)
     - [Utility](#Utility)
-    - [PlayerPrefsExtension]
+    - [PlayerPrefsExtension](#PlayerPrefsExtension)
 - [UI](#UI)
     - [Shader Collection](#Shader-Collection)
     - [Shader](#Shader)
