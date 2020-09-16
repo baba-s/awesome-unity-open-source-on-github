@@ -408,6 +408,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Unity-HierarchyHelper](https://github.com/gydisme/Unity-HierarchyHelper) - The fastest way to create Unity Hierarchy GUI items ever
 - [EditorGUIHierarchyView](https://github.com/miguel12345/EditorGUIHierarchyView) - Easily add a Hierarchy view (like Unity's scene view) to your Editor UI
 - [Unity Hierarchy Menu Customizer](https://github.com/baba-s/unity-hierarchy-menu-customizer) - Customize the menu that appears when you right-click on Hierarchy
+- [HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator) - Provides custom drawing within the Hierarchy window, and add extra information functionality
 
 ## Project View
 
