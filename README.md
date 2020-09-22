@@ -1097,6 +1097,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites
 - [EcsRx.Unity](https://github.com/EcsRx/ecsrx.unity) - A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems
 - [Unity ECS with navmesh and MapBox](https://github.com/zulfajuniadi/unity-ecs-navmesh) - A demo implementation of Unity Entity Component System with NavMesh
+- [EntitasTanks](https://github.com/cloudjubei/EntitasTanks) - Entitas port of the Unity Tanks Tutorial project
 
 ## Sprite
 
