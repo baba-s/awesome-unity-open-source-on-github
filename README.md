@@ -29,7 +29,7 @@ A categorized collection of awesome Unity open source on GitHub.
     - [Noise](#Noise)
     - [Force Field](#Force-Field)
     - [Overdraw](#Overdraw)
-    - [Code Edior](#Code-Edior)
+    - [Code Editor](#Code-Editor)
     - [Other](#Other)
 - [Editor Extensions](#Editor-Extensions)
     - [Scene View](#Scene-View)
@@ -319,7 +319,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [DebugGPU](https://github.com/slmao/DebugGPU) - A debug tool to optimize mipmap and overdraw for unity project
 
-## Code Edior
+## Code Editor
 
 - [language-shadercode](https://github.com/axot/language-shadercode) - HLSL, UDF, GLSL and CG syntax highlighting
 - [Unity3D-Shader](https://github.com/petereichinger/Unity3D-Shader) - Adds Syntax Highlighting .shader files to Sublime Text
@@ -502,6 +502,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityBulkConverter](https://github.com/wotakuro/UnityBulkConverter) - library and samples for converting each assets
 - [Unity-LayoutExporter](https://github.com/rngtm/Unity-LayoutExporter) - Tool to import/export Unity layout settings(.wlt)
 - [BuildSceneProcessor.cs](https://gist.github.com/mrcarriere/92322b70e1d7133d60a971cbd7b07604) - Automatically add a scene to your Build Settings
+- [unity-aseprite-importer](https://github.com/martinhodler/unity-aseprite-importer) - Importer for Aseprite files (.ase, .aseprite)
 
 ## Hot Key
 
@@ -790,6 +791,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [UnityOptimizeTool](https://github.com/GooKu/UnityOptimizeTool) - Unity editor optimize tool
 - [ugui-toorbar](https://github.com/baba-s/ugui-toorbar) - A toolbar that can create uGUI objects
+- [unity-productivity-tools](https://github.com/martinhodler/unity-productivity-tools) - A unity package adding features like inspector buttons, GameObject grouping and property attributes
 
 ## Atlas
 
