@@ -29,7 +29,7 @@ A categorized collection of awesome Unity open source on GitHub.
     - [Noise](#Noise)
     - [Force Field](#Force-Field)
     - [Overdraw](#Overdraw)
-    - [Code Edior](#Code-Edior)
+    - [Code Editor](#Code-Editor)
     - [Other](#Other)
 - [Editor Extensions](#Editor-Extensions)
     - [Scene View](#Scene-View)
@@ -319,7 +319,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [DebugGPU](https://github.com/slmao/DebugGPU) - A debug tool to optimize mipmap and overdraw for unity project
 
-## Code Edior
+## Code Editor
 
 - [language-shadercode](https://github.com/axot/language-shadercode) - HLSL, UDF, GLSL and CG syntax highlighting
 - [Unity3D-Shader](https://github.com/petereichinger/Unity3D-Shader) - Adds Syntax Highlighting .shader files to Sublime Text
