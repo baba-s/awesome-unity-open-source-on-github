@@ -25,12 +25,12 @@ A categorized collection of awesome Unity open source on GitHub.
     - [Builder](#Builder)
     - [Shadow](#Shadow)
     - [Jelly](#Jelly)
-    - [Optimization](#Optimization)
+    - [Optimization](#Shader-Optimization)
     - [Noise](#Noise)
     - [Force Field](#Force-Field)
     - [Overdraw](#Overdraw)
     - [Code Editor](#Code-Editor)
-    - [Other](#Other)
+    - [Other](#Other-Shaders)
 - [Editor Extensions](#Editor-Extensions)
     - [Scene View](#Scene-View)
     - [Hierarchy](#Hierarchy)
@@ -54,23 +54,23 @@ A categorized collection of awesome Unity open source on GitHub.
     - [Tilemap](#Tilemap)
     - [3D Model](#3D-Model)
     - [Color](#Color)
-    - [Utility](#Utility)
+    - [Utility](#Editor-Utility)
 - [UI](#UI)
     - [Shader Collection](#Shader-Collection)
-    - [Shader](#Shader)
-    - [Utility](#Utility)
+    - [Shader](#UI-Shader)
+    - [Utility](#UI-Utility)
     - [Text](#Text)
-    - [Debug](#Debug)
+    - [Debug](#UI-Debug)
     - [Layout](#Layout)
     - [Scroll](#Scroll)
     - [Mask](#Mask)
     - [Shape](#Shape)
     - [Color Picker](#Color-Picker)
-    - [Script](#Script)
+    - [Script](#UI-Script)
     - [iPhone X / XS](#iPhone-X-/-XS)
     - [Radar Chart](#Radar-Chart)
     - [Fade](#Fade)
-    - [Editor Extensions](#Editor-Extensions)
+    - [Editor Extensions](#UI-Editor-Extensions)
     - [Atlas](#Atlas)
     - [Button](#Button)
     - [Sample](#Sample)
@@ -81,7 +81,7 @@ A categorized collection of awesome Unity open source on GitHub.
     - [Message Bus](#Message-Bus)
     - [Extension Methods](#Extension-Methods)
     - [Character Controller](#Character-Controller)
-    - [Debug](#Debug)
+    - [Debug](#Script-Debug)
     - [Asset Bundle](#Asset-Bundle)
     - [Controller](#Controller)
     - [Joystick](#Joystick)
@@ -94,7 +94,7 @@ A categorized collection of awesome Unity open source on GitHub.
     - [Curve](#Curve)
     - [Event](#Event)
     - [Object Pooling](#Object-Pooling)
-    - [Utility](#Utility)
+    - [Utility](#Script-Utility)
 - [Mobile](#Mobile)
     - [iOS / Android](#iOS-/-Android)
     - [iOS](#iOS)
@@ -112,7 +112,7 @@ A categorized collection of awesome Unity open source on GitHub.
     - [Reverse Engineering](#Reverse-Engineering)
     - [Tool](#Tool)
     - [Lua](#Lua)
-    - [Asset](#Asset)
+    - [Asset](#Other-Asset)
     - [Excel](#Excel)
     - [Git](#Git)
     - [Sample Project](#Sample-Project)
@@ -300,7 +300,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [SoftBodyDemo](https://github.com/calleerlandsson/SoftBodyDemo) - A demo of soft body physics
 - [Unity-JellyBody](https://github.com/losuffi/Unity-JellyBody) - JellyBody shader，vertex replacement
 
-## Optimization
+## Shader Optimization
 
 - [unity-standard-shader-mobile](https://github.com/nylonee/unity-standard-shader-mobile) - Mobile optimised shader
 - [Unity-OptimalUnlitShader](https://github.com/azixMcAze/Unity-OptimalUnlitShader) - An unlit uber-shader covering all the common use cases
@@ -327,7 +327,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) - ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming
 - [unity_shader_st3](https://github.com/waqiju/unity_shader_st3) - A sublime text plugin which aim at boosting happiness when editing Unity Shader
 
-## Other
+## Other Shaders
 
 - [SonarFx](https://github.com/keijiro/SonarFx) - Sonar effect
 - [SnowTrail](https://github.com/nkihrk/SnowTrail) - Snow Trail
@@ -601,7 +601,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [unity-colourlovers-importer](https://github.com/shelleylowe/unity-colourlovers-importer) - Load colours and palettes directly from COLOURlovers.com
 
-## Utility
+## Editor Utility
 
 - [wakatime-unity](https://github.com/josec89/wakatime-unity) - WakaTime Unity plugin
 - [field-monitor](https://github.com/mminer/field-monitor) - Field and property viewer
@@ -652,7 +652,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UIAndShader](https://github.com/blueberryzzz/UIAndShader) - Some Unity UI components and shaders
 - [Sprite-Postprocessing-Tool-Unity](https://github.com/rozx/Sprite-Postprocessing-Tool-Unity) - The post processing plugin
 
-## Shader
+## UI Shader
 
 - [Hue](https://github.com/teach310/Hue) - Hue shader
 - [UGUI-Effect](https://github.com/MoonAntonio/UGUI-Effect) - uGUI Effect
@@ -672,7 +672,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityRoundedShader](https://github.com/sunduk/UnityRoundedShader) - Rounded rectangle, circle, ellipse shaders
 - [Unity-UI-Rounded-Corners](https://github.com/Nobinator/Unity-UI-Rounded-Corners) - Allows you to add rounded corners to UI elements
 
-## Utility
+## UI Utility
 
 - [UIFlippable.cs](https://gist.github.com/baba-s/6c7d44e117d157c39e4c696b110e767f) - UI flip
 - [UniGif](https://github.com/WestHillApps/UniGif) - GIF image decoder
@@ -709,7 +709,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [YLYRichText](https://github.com/cantry100/YLYRichText) - a feature-rich, easy to use unity rich text plugin
 - [TextFader](https://github.com/miguel12345/TextFader) - Add a char-by-char fade in animation to your texts
 
-## Debug
+## UI Debug
 
 - [collider-visualizer](https://github.com/tomoriaki/collider-visualizer) - Collider visualizer
 - [consolation](https://github.com/mminer/consolation) - In-game debug console
@@ -764,7 +764,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [HSV-Color-Picker-Unity](https://github.com/judah4/HSV-Color-Picker-Unity) - HSV color picker
 - [UnityColorPicker](https://github.com/jongallant/UnityColorPicker) - A standalone color picker asset
 
-## Script
+## UI Script
 
 - [UITransition](https://github.com/mob-sakai/UITransition) - Transition
 - [CompositeToggle](https://github.com/mob-sakai/CompositeToggle) - Composite toggle system
@@ -788,7 +788,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Unity-UiFaderPro](https://github.com/QFSW/Unity-UiFaderPro) - Make fading in and out chunks of U
 - [TransitionKit](https://github.com/prime31/TransitionKit) - Modular, extensible transitions in scene and between scenes
 
-## Editor Extensions
+## UI Editor Extensions
 
 - [UnityOptimizeTool](https://github.com/GooKu/UnityOptimizeTool) - Unity editor optimize tool
 - [ugui-toorbar](https://github.com/baba-s/ugui-toorbar) - A toolbar that can create uGUI objects
@@ -879,7 +879,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Unity-2D-Platformer-Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor
 - [2DCharacterControllerTutorial](https://github.com/IronWarrior/2DCharacterControllerTutorial) - Source code for 2D Character Controller tutorial
 
-## Debug
+## Script Debug
 
 - [GAutomator](https://github.com/Tencent/GAutomator) - Automation for mobile games
 - [uni-debug-menu](https://github.com/baba-s/uni-debug-menu) - Customizable debug menu
@@ -969,7 +969,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [WebGLInput](https://github.com/kou-yeung/WebGLInput) - IME for Unity WebGL
 
-## Utility
+## Script Utility
 
 - [StackList](https://github.com/hont127/StackList) - Stack list
 - [giles](https://github.com/procore3d/giles) - A Runtime Level Editor
@@ -1263,7 +1263,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [xLua](https://github.com/Tencent/xLua) - xLua is a lua programming solution for C#
 - [slua](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity and mono
 
-## Asset
+## Other Asset
 
 - [LowPolyShapes](https://github.com/keijiro/LowPolyShapes) - Low poly basic shape library
 - [superpowers-asset-packs](https://github.com/sparklinlabs/superpowers-asset-packs) - CC0-licensed asset packs for your games
