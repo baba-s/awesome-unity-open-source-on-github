@@ -639,6 +639,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [VikingReSize](https://github.com/norseware/VikingReSize) - Analyzes your project and displays how much space files take up specified by custom categories
 - [Unity-EdgeCollider2D-to-PolygonCollider2D-](https://github.com/JuanGdelaCruz/Unity-EdgeCollider2D-to-PolygonCollider2D-) - Editor tool which converts EdgeCollider2D to PolygonCollider2D
 - [unity-compile-in-background](https://github.com/baba-s/unity-compile-in-background) - Start compiling without having to return focus to the Unity editor after changing the script
+- [unity-productivity-tools](https://github.com/martinhodler/unity-productivity-tools) - A unity package adding features like inspector buttons, GameObject grouping and property attributes
 
 # UI
 
@@ -791,7 +792,6 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [UnityOptimizeTool](https://github.com/GooKu/UnityOptimizeTool) - Unity editor optimize tool
 - [ugui-toorbar](https://github.com/baba-s/ugui-toorbar) - A toolbar that can create uGUI objects
-- [unity-productivity-tools](https://github.com/martinhodler/unity-productivity-tools) - A unity package adding features like inspector buttons, GameObject grouping and property attributes
 
 ## Atlas
 
