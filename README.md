@@ -382,6 +382,8 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityGradientBackground](https://github.com/miguel12345/UnityGradientBackground) - Get a beautiful background gradient just by adding a simple script to your camera
 - [DepthInverseProjection](https://github.com/keijiro/DepthInverseProjection) - An example showing how to inverse-project depth samples into the view/world space
 - [WavTexture](https://github.com/keijiro/WavTexture) - A Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader
+- [Smooth radial gradient shader](https://github.com/Nrjwolf/unity-shader-smooth-radial-gradient) - Helps to create radial gradient without banding by using noise
+- [Radial fill shader](https://github.com/Nrjwolf/unity-shader-sprite-radial-fill) - Helps to create radial fill with sprite
 
 # Editor Extensions
 
@@ -469,6 +471,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [ReorderableInspector](https://github.com/SubjectNerd-Unity/ReorderableInspector) - Automatic reorderable lists for Unity game engine components
 - [unity-forge-property-drawers](https://github.com/rfadeev/unity-forge-property-drawers) - Custom propery drawers to ease fields value management
 - [Unity3D_PropertyDrawer_AudioClip](https://github.com/samsawyer85/Unity3D_PropertyDrawer_AudioClip) - Draws a play button and waveform preview for serialized AudioClip fields
+- [Auto attach components](https://github.com/Nrjwolf/unity-auto-attach-component-attributes) - This asset help you to auto attach components into your serialized fields in inpector. I started use it to avoid every time assign components in Awake/Start function.
 
 ## Editor Window
 
@@ -503,6 +506,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Unity-LayoutExporter](https://github.com/rngtm/Unity-LayoutExporter) - Tool to import/export Unity layout settings(.wlt)
 - [BuildSceneProcessor.cs](https://gist.github.com/mrcarriere/92322b70e1d7133d60a971cbd7b07604) - Automatically add a scene to your Build Settings
 - [unity-aseprite-importer](https://github.com/martinhodler/unity-aseprite-importer) - Importer for Aseprite files (.ase, .aseprite)
+- [SubAssetDragAndDrop](https://github.com/Maligan/unity-subassets-drag-and-drop) - Allows add/remove subasset with simple Drag&Drop operation
 
 ## Hot Key
 
@@ -1061,6 +1065,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityNativeGallery](https://github.com/yasirkula/UnityNativeGallery) - A native Unity plugin to interact with Gallery/Photos on Android & iOS
 - [iPhoneX-overlay](https://github.com/ianwaldrop/iPhoneX-overlay) - Unity Editor utility which masks the game view with the shape of an iPhone X
 - [Unity.iOS.OnDemand](https://github.com/chromealex/Unity.iOS.OnDemand) - Useful to reduce iOS app size to ~70mb and compress your assets data using 7z
+- [IOS Easy Alert](https://github.com/Nrjwolf/unity-ios-easy-native-alert) - Native IOS alerts
 
 ## Android
 
@@ -1173,6 +1178,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Game-Eye-2D](https://github.com/JasonHein/Game-Eye-2D) - A component based orthographic camera extension for unity that tracks 2D environments
 - [Unity-CameraSizeToVelocity2D](https://github.com/tonisuo/Unity-CameraSizeToVelocity2D) - Simple script to change the cameras size depending on the velocity of the target
 - [DeadSimple-Pixel-Perfect-Camera](https://github.com/cmilr/DeadSimple-Pixel-Perfect-Camera) - An exceedingly easy-to-use pixel perfect orthographic camera script for 2D scenes
+- [Unity-Camera-Scaler](https://github.com/Nrjwolf/Unity-Camera-Scaler) - Scale camera with fixed width
 
 ## Physics
 
