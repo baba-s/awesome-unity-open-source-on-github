@@ -490,6 +490,9 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityProjectBrowserHistory](https://github.com/creativitRy/UnityProjectBrowserHistory) - Back and forward buttons for the Unity project browser
 - [asset-store-support-window](https://github.com/AlexanderAmeye/asset-store-support-window) - A support window template for publishers of the Unity Asset Store
 - [scripts-manager-unity3d](https://github.com/prashant-singh/scripts-manager-unity3d) - Gives the list of scripts in the current scene with gameobject reference
+- [UnityScreenShooter](https://github.com/Team-on/UnityScreenShooter) - Screenshot utility for Unity runtime & editor
+- [UnityBuildManager](https://github.com/Team-on/UnityBuildManager) - Utility for running builds sequence & pushing them to markets & keeping changelog
+- [CustomToolbar](https://github.com/smkplus/CustomToolbar) - Custom toolbar with ability do add new toolbars and reorganize it
 
 ## Asset
 
@@ -1027,6 +1030,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [InstantiatePostProcessingProfile.cs](https://gist.github.com/yagero/d4b377a4fa318b01f6b6e9c5a533141b) - Use this class to dynamically instantiate the PostProcessingProfile at runtime
 - [unity-forge-anim-callbacks](https://github.com/rfadeev/unity-forge-anim-callbacks) - Runtime callbacks for animation clips used in Animator and Animation components
 - [Unity-delayed-asset](https://github.com/Trisibo/Unity-delayed-asset) - Without automatically loading all the data referenced by the asset in memory when a scene is loaded
+- [Unity3D-save-audioClip-to-MP3](https://github.com/Team-on/Unity3D-save-audioClip-to-MP3) - Save an audioclip to mp3 in unity3d. Also plugin can save audioclip to wav and convert wav to mp3.
 
 # Mobile
 
@@ -1320,3 +1324,4 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Fruit-Ninja-Replica](https://github.com/Brackeys/Fruit-Ninja-Replica) - This is the source code for a Fruit Ninja replica created during a Twitch Livestream
 - [Cut-the-Rope-Replica](https://github.com/Brackeys/Cut-the-Rope-Replica) - This is the source code for a Cut the Rope replica created during a Twitch Livestream
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - how to implement SSAO, depth of field, lighting, normal mapping, and more
+- [UnityGameTemplate](https://github.com/Team-on/UnityGameTemplate) - Template with all necessary stuff taken care, just create your games main features
