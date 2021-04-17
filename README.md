@@ -634,7 +634,8 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityElevatorCompiler](https://github.com/m3rt32/UnityElevatorCompiler) - Plays elevator music while Unity compiles your code
 - [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender) - Extend the Unity Toolbar with your own Editor UI code
 - [unity-customizable-toolbar](https://github.com/baba-s/unity-customizable-toolbar) - Customizable toolbar available in the Unity editor
-- [unity-build](https://github.com/Chaser324/unity-build) - A powerful automation tool for quickly and easily generating builds
+- [SuperUnityBuild](https://github.com/superunitybuild/buildtool) - A powerful automation tool for quickly and easily generating builds with Unity
+- [SuperUnityBuild BuildActions](https://github.com/superunitybuild/buildactions) - BuildActions for use with the SuperUnityBuild build automation tool
 - [Unity-Slngen](https://github.com/jhett12321/Unity-Slngen) - Adds additional solution configurations to generated .sln/.csproj files
 - [Unity3D-Editor-Extensions-and-Tools](https://github.com/thomue00/Unity3D-Editor-Extensions-and-Tools) - Some Basic Unity3D Editor Extensions and Tools
 - [Unity-Animation-Hierarchy-Editor](https://github.com/s-m-k/Unity-Animation-Hierarchy-Editor) - This utility will help you refactor your Unity animations
