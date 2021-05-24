@@ -833,6 +833,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [dotween-configs](https://github.com/rfadeev/dotween-configs) - Configs to setup DOTween's tween parameters via Unity editor
 - [Unity-EasingLibraryVisualisation](https://github.com/noisecrime/Unity-EasingLibraryVisualisation) - Front end visualisation of 40 common easing equations
 - [interpolations](https://github.com/phest/interpolations) - Lightweight library for smoothing movements and value progressions in code
+- [Tweens](https://github.com/jeffreylanters/unity-tweens) - An open source, lightweight tweening engine with strictly typed script-based UI and object animations
 
 ## Mesh
 
