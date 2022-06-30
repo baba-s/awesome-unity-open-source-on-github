@@ -1136,7 +1136,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnitySpriteFlash](https://github.com/ilhamhe/UnitySpriteFlash) - Example project to show flash effect on Unity sprite
 - [SimpleSquashAndStretchMovement2D](https://github.com/keenanwoodall/SimpleSquashAndStretchMovement2D) - Squash and stretch movement
 - [SpriteLightKit](https://github.com/prime31/SpriteLightKit) - Blended lighting system for Unity that works with standard Sprites
-- [SpriteProcessorScript](https://github.com/dithyrambs/SpriteProcessorScript) - A short Unity editor script for importing and slicing sprite-sheets
 - [Unity-2D-Destruction](https://github.com/mjholtzem/Unity-2D-Destruction) - Breaking 2D sprites into fragments for awesome destruction effects
 - [RetroSpriteAnimator](https://github.com/dithyrambs/RetroSpriteAnimator) - Unity component for easily defining and playing 2D sprite animations in script
 - [SpritedowAnimator](https://github.com/Elendow/SpritedowAnimator) - Simple sprite animations avoiding the big and tedious Unity's Mechanim system
