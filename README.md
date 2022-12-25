@@ -1235,6 +1235,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [BetterDictionary](https://github.com/komatus/BetterDictionary) - Better performance generic Dictionary and HashSet optimized
 - [graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger
 - [PolygonColliderSimplification](https://github.com/j-bbr/PolygonColliderSimplification) - A set of scripts to reduce the complexity of Polygon2D and Edge Colliders
+- [UniRate](https://github.com/renanwolf/UniRate) - A Unity plugin to easily manage the application frame rate and rendering interval.
 
 ## Particle
 
