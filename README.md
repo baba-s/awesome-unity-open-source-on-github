@@ -404,7 +404,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [HierarchyCustomiser](https://github.com/plyoung/HierarchyCustomiser) - Customise the Unity Hierarchy panel
 - [Unity-HierarchyTools](https://github.com/Jameslroll/Unity-HierarchyTools) - Some simple tools for Unity hierarchy
 - [CategoryTool](https://github.com/Demkeys/CategoryTool) - Unity Editor tool to create Categories in the Hierarchy
-- [Folders](https://github.com/thebeardphantom/Folders) - Adding folders and notes to create a more modern workflow
 - [EditorSceneActiveSwitcher-Unity](https://github.com/VeniTaku/EditorSceneActiveSwitcher-Unity) - Load and unload scenes with a one click
 - [hierarchy-icons](https://github.com/mminer/hierarchy-icons) - Unity extension to show component icons in the Hierarchy
 - [Unity-HierarchyHelper](https://github.com/gydisme/Unity-HierarchyHelper) - The fastest way to create Unity Hierarchy GUI items ever
