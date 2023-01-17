@@ -567,6 +567,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityDarkSkin](https://github.com/Gluschenko/UnityDarkSkin) - Switching layout theme in Unity Editor (light -> dark)
 - [UnityEditorHelper](https://github.com/JefferiesTube/UnityEditorHelper) - An organized bunch of scripts to make editor scripting in Unity easier
 - [unity-themes](https://github.com/zios/unity-themes) - Provides the Unity Editor with adjustable, hot-swappable GUI themes across all elements
+- [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) - Editor assets generation via Stable Diffusion
 
 ## Command
 
