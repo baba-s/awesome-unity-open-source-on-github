@@ -1303,7 +1303,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Millenium](https://github.com/ToadsworthLP/Millenium) - The Thousand-Year Door
 - [2d-gamedemo-robodash](https://github.com/Unity-Technologies/2d-gamedemo-robodash) - Robodash
 - [nodulus](https://github.com/Hyperparticle/nodulus) - Puzzle game with clever twists
-- [Galaxy](https://github.com/nlra/Galaxy) - Demo of my planet movement 3C
 - [ParticleDecalDrawer](https://github.com/Sacristan/ParticleDecalDrawer) - Particle decal drawer
 - [project-skylines](https://github.com/Zaphyk/project-skylines) - procedural retro 3d game
 - [FlappyBirdStyleGame](https://github.com/dgkanatsios/FlappyBirdStyleGame) - Flappy Bird style game
