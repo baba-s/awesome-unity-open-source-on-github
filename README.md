@@ -967,6 +967,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Unity3D-ExtendedEvent](https://github.com/Thundernerd/Unity3D-ExtendedEvent) - A UnityEvent replacement
 - [UnityAnimatorEvents](https://github.com/forestrf/UnityAnimatorEvents) - UnityEvents triggered by states inside an Animator
 - [Unity-MecanimEventSystem](https://github.com/Bian-Sh/Unity-MecanimEventSystem) - Chain programming style callback System for Animator
+- [UniFlux](https://github.com/kingdox/UniFlux) - Call Methods with no references
 
 ## Object Pooling
 
