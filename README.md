@@ -1253,6 +1253,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [unity-midi](https://github.com/n-yoda/unity-midi) - Play MIDI (SMF) on Unity, using C# Synth Project
 - [unity-audio-spectrum](https://github.com/keijiro/unity-audio-spectrum) - Provides spectrum data with audio output
 - [Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis
+- [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
 
 ## Reverse Engineering
 
