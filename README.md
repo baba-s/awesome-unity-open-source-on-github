@@ -115,6 +115,7 @@ A categorized collection of awesome Unity open source on GitHub.
     - [Asset](#Other-Asset)
     - [Excel](#Excel)
     - [Git](#Git)
+    - [Test](#Test)
     - [Sample Project](#Sample-Project)
 
 # Shader
@@ -1292,6 +1293,9 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Multiplayer
 
 - [Teleport](https://github.com/debox-dev/Teleport) - A fast, lightweight, pure C# Unity realtime-game-networking framework
+
+## Test
+- [Gamium](https://github.com/dogu-team/gamium) - Game test automation library, scripting the behavior of game users
 
 ## Sample Project
 
