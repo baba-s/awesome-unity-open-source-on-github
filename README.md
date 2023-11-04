@@ -115,6 +115,7 @@ A categorized collection of awesome Unity open source on GitHub.
     - [Asset](#Other-Asset)
     - [Excel](#Excel)
     - [Git](#Git)
+    - [Multiplayer](#Multiplayer)
     - [Sample Project](#Sample-Project)
 
 # Shader
