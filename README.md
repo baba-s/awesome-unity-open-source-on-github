@@ -116,6 +116,8 @@ A categorized collection of awesome Unity open source on GitHub.
     - [Excel](#Excel)
     - [Git](#Git)
     - [Test](#Test)
+    - [Multiplayer](#Multiplayer)
+    - [AI](#AI)
     - [Sample Project](#Sample-Project)
 
 # Shader
@@ -1290,12 +1292,17 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [unity-git-hooks](https://github.com/doitian/unity-git-hooks) - Git hooks for Unity project
 
+## Test
+
+- [Gamium](https://github.com/dogu-team/gamium) - Game test automation library, scripting the behavior of game users
+
 ## Multiplayer
 
 - [Teleport](https://github.com/debox-dev/Teleport) - A fast, lightweight, pure C# Unity realtime-game-networking framework
 
-## Test
-- [Gamium](https://github.com/dogu-team/gamium) - Game test automation library, scripting the behavior of game users
+## AI 
+
+- [DotRecast](https://github.com/ikpil/Dotrecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ## Sample Project
 
