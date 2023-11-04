@@ -115,6 +115,7 @@ A categorized collection of awesome Unity open source on GitHub.
     - [Asset](#Other-Asset)
     - [Excel](#Excel)
     - [Git](#Git)
+    - [Test](#Test)
     - [Multiplayer](#Multiplayer)
     - [AI](#AI)
     - [Sample Project](#Sample-Project)
@@ -1290,6 +1291,10 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Git
 
 - [unity-git-hooks](https://github.com/doitian/unity-git-hooks) - Git hooks for Unity project
+
+## Test
+
+- [Gamium](https://github.com/dogu-team/gamium) - Game test automation library, scripting the behavior of game users
 
 ## Multiplayer
 
