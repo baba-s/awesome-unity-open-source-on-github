@@ -259,6 +259,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [unity-voxel](https://github.com/mattatz/unity-voxel) - Mesh voxelization
 - [Mesh-Voxelization](https://github.com/Scrawk/Mesh-Voxelization) - Mesh voxelization
 - [unity-voxelizer](https://github.com/brianasu/unity-voxelizer) - Utility library to voxelize meshes
+- [VoxReader](https://github.com/sandrofigo/VoxReader) - Library to read .vox files created with MagicaVoxel
 
 ## Grass
 
