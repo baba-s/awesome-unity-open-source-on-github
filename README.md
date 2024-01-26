@@ -1166,6 +1166,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [DTUIRebuildVisualizer](https://github.com/DarrenTsung/DTUIRebuildVisualizer) - Tool to visualize UI canvas rebuilds and create performant Unity UI
 - [Unity-Resource-Checker](https://github.com/handcircus/Unity-Resource-Checker) - Editor utility for unity to help check resources in the current scene
 - [unity-reference-checker](https://github.com/haydenjameslee/unity-reference-checker) - Checking unassigned references in MonoBehaviours at compile time
+- [GenericBurstJobs](https://github.com/TriceHelix/GenericBurstJobs) - Automatically register generic job structs with Burst Compiler
 
 ## Camera
 
