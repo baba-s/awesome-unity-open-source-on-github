@@ -529,7 +529,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [PivotUtilities.cs](https://gist.github.com/talecrafter/519e260d93dbf236484acfe625faa1dc) - Pivot Utilities
 - [EasyScriptTester](https://github.com/rngtm/EasyScriptTester) - Easy Script Tester
-- [create-empty-at-zero-position](https://github.dyf62976.workers.dev/tomori-hikage/create-empty-at-zero-position) - Create empty at zero position
+- [create-empty-at-zero-position](https://github.com/tomori-hikage/create-empty-at-zero-position) - Create empty at zero position
 - [Unity-Random-Duplicate](https://github.com/ibito/Unity-Random-Duplicate) - Useful when creating/designing levels by hand
 - [unity_duplicate_special](https://github.com/marcin-se/unity_duplicate_special) - Duplicates objects in a fashion similar to Blender's Array Modifier
 - [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) - Allows for quick and safe renaming of many assets and gameobjects at once
