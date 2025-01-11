@@ -1036,6 +1036,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [unity-forge-anim-callbacks](https://github.com/rfadeev/unity-forge-anim-callbacks) - Runtime callbacks for animation clips used in Animator and Animation components
 - [Unity-delayed-asset](https://github.com/Trisibo/Unity-delayed-asset) - Without automatically loading all the data referenced by the asset in memory when a scene is loaded
 - [Unity3D-save-audioClip-to-MP3](https://github.com/Team-on/Unity3D-save-audioClip-to-MP3) - Save an audioclip to mp3 in unity3d. Also plugin can save audioclip to wav and convert wav to mp3.
+- [UniState](https://github.com/bazyleu/UniState) - UniState is a modern, high-performance, scalable state machine package for Unity.
 
 # Mobile
 
