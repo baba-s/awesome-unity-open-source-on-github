@@ -184,7 +184,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [globaloutline](https://github.com/rickomax/globaloutline) - Global Outline
 - [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline) - Screen-space outlines
 - [UnityOutline](https://github.com/kerrot/UnityOutline) - Unity Ouline by post effect
-- [Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
 - [OutLine_Geometry](https://github.com/yuyujunjun/OutLine_Geometry) - VFX using Outline And Geometry
 - [UnityOutlineShader](https://github.com/IronWarrior/UnityOutlineShader) - Source code for Outline Shader tutorial
 - [UltimateOutline](https://github.com/Shrimpey/UltimateOutline) - The easiest way to achieve outlines in unity
@@ -271,7 +270,6 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [KinoBloom](https://github.com/keijiro/KinoBloom) - Bloom effect
 - [unity-mask-bloom](https://github.com/mattatz/unity-mask-bloom) - Mask by alpha channel bloom effect
-- [Unity-Fast-Bloom](https://github.com/PavelDoGreat/Unity-Fast-Bloom) - Probably the fastest bloom implementation
 
 ## Portal
 
@@ -319,10 +317,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [ForceFieldFX](https://github.com/vux427/ForceFieldFX) - Force Field FX
 - [Force-Field](https://github.com/Brackeys/Force-Field) - Project files for our tutorial on how to make a Force Field in Unity using Shader Graph
 
-## Overdraw
-
-- [DebugGPU](https://github.com/slmao/DebugGPU) - A debug tool to optimize mipmap and overdraw for unity project
-
 ## Code Editor
 
 - [language-shadercode](https://github.com/axot/language-shadercode) - HLSL, UDF, GLSL and CG syntax highlighting
@@ -340,7 +334,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [KinoFog](https://github.com/keijiro/KinoFog) - Global fog effect
 - [VolumeCloud](https://github.com/yangrc1234/VolumeCloud) - Volume cloud
 - [KinoContour](https://github.com/keijiro/KinoContour) - Contour line filter
-- [RainDropEffect](https://github.com/EdoFrank/RainDropEffect) - Rain Drop Effect
 - [SpektrLightning](https://github.com/keijiro/SpektrLightning) - Lightning effect
 - [FlipBook](https://github.com/keijiro/FlipBook) - Flip book effect example
 - [ShaderTutorials](https://github.com/ronja-tutorials/ShaderTutorials) - unity shader tutorials
@@ -348,7 +341,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [RippleEffect](https://github.com/keijiro/RippleEffect) - Water surface ripple effect
 - [OIT_Lab](https://github.com/candycat1992/OIT_Lab) - Order-independent Transparent
 - [2DShadow](https://github.com/unitycoder/2DShadow) - 2D Visibility / Shadow casting
-- [FakeVolumetricLight](https://github.com/avseoul/FakeVolumetricLight) - FakeVolumetricLight
 - [ShaderGum](https://github.com/leon196/ShaderGum) - Unity3D GPU Sculpt & Morph
 - [OneBitGraphicShader](https://github.com/inoook/OneBitGraphicShader) - 1 bit graphic shader
 - [unity-grabsquares-effect](https://github.com/qine/unity-grabsquares-effect) - GrabSquares Effect
@@ -365,7 +357,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [SinewaveShapeDistortion](https://github.com/khalladay/SinewaveShapeDistortion) - A Screen space distortion effect
 - [VolumetricLinesUnity](https://github.com/johannesugb/VolumetricLinesUnity) - Source of the Volumetric Lines Asset
 - [Unity-CustomMipMaps](https://github.com/azixMcAze/Unity-CustomMipMaps) - A custom mipmaps texture importer
-- [Arktoon-Shaders](https://github.com/synqark/Arktoon-Shaders) - Alternative Unity shaders made by synqark
 - [unity-sunburst-effects](https://github.com/keijiro/unity-sunburst-effects) - Sunburst effects with mesh animation
 - [fun-frag-shaders](https://github.com/makitsune/fun-frag-shaders) - Fun fragment shaders you can use in Unity
 - [KinoFeedback](https://github.com/keijiro/KinoFeedback) - Oldskool frame buffer feedback effect for Unity
@@ -442,7 +433,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [SceneObject.cs](https://gist.github.com/Hertzole/ac269f3148bc5192cc2eb6d472870d24) - Unity scene object to easily assign scenes in the inspector
 - [Unity3d-Tags-Filters](https://github.com/dimmpixeye/Unity3d-Tags-Filters) - Extending a Unity3d Inspector window to show int tags
 - [UnityEditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) - Editor scripts to make working with the Unity Editor better
-- [UnityEditorJunkie](https://github.com/roboryantron/UnityEditorJunkie) - Editor scripts to make working with the Unity Editor better
 - [UnityExtensions.InspectInline](https://github.com/garettbass/UnityExtensions.InspectInline) - Enables you to inspect and edit object references
 - [AssetPathAttribute](https://github.com/ByronMayne/AssetPathAttribute) - Allow you to have drag and drop asset references in the inspector
 - [AnimationCurveCopyPaste](https://github.com/SenshiSentou/AnimationCurveCopyPaste) - Add copy-paste functionality to Unity's AnimationCurve fields
@@ -461,7 +451,6 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
 - [HighlightAttribute.cs](https://gist.github.com/LotteMakesStuff/2d3c6dc7a913ed118601db95735574de) - Add some color to you inspectors
-- [Stackable-Decorator](https://github.com/Kinwailo/Stackable-Decorator) - Stackable decorator for property drawer
 - [UnityNonNull](https://github.com/ulrikdamm/UnityNonNull) - NonNull attribute to fields and classes in Unity
 - [EmbeddedInspectorAttribute.cs](https://gist.github.com/edwardrowe/709bcbc5c53a477ffc482a48daa7d115) - Embedded Inspector Attribute
 - [UnityGetComponentAutoInjector](https://github.com/jinnin0105/UnityGetComponentAutoInjector) - Unity GetComponent Auto Injector
@@ -490,7 +479,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [EditorGUISplitView](https://github.com/miguel12345/EditorGUISplitView) - A split view to be used in Unity Editor Windows
 - [LayerManager](https://github.com/YondernautsGames/LayerManager) - A simple tool for reordering, merging and modifying unity layers
 - [UnityProjectBrowserHistory](https://github.com/creativitRy/UnityProjectBrowserHistory) - Back and forward buttons for the Unity project browser
-- [asset-store-support-window](https://github.com/AlexanderAmeye/asset-store-support-window) - A support window template for publishers of the Unity Asset Store
 - [scripts-manager-unity3d](https://github.com/prashant-singh/scripts-manager-unity3d) - Gives the list of scripts in the current scene with gameobject reference
 - [UnityScreenShooter](https://github.com/Team-on/UnityScreenShooter) - Screenshot utility for Unity runtime & editor
 - [UnityBuildManager](https://github.com/Team-on/UnityBuildManager) - Utility for running builds sequence & pushing them to markets & keeping changelog
@@ -529,7 +517,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [PivotUtilities.cs](https://gist.github.com/talecrafter/519e260d93dbf236484acfe625faa1dc) - Pivot Utilities
 - [EasyScriptTester](https://github.com/rngtm/EasyScriptTester) - Easy Script Tester
 - [create-empty-at-zero-position](https://github.com/tomori-hikage/create-empty-at-zero-position) - Create empty at zero position
-- [Unity-Random-Duplicate](https://github.com/ibito/Unity-Random-Duplicate) - Useful when creating/designing levels by hand
 - [unity_duplicate_special](https://github.com/marcin-se/unity_duplicate_special) - Duplicates objects in a fashion similar to Blender's Array Modifier
 - [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer) - Allows for quick and safe renaming of many assets and gameobjects at once
 
@@ -548,7 +535,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Unity-GUIStyles-list.md](https://gist.github.com/MadLittleMods/ea3e7076f0f59a702ecb) - List of GUIStyle
 - [UnityTextureExporter](https://github.com/miguel12345/UnityTextureExporter) - Export procedural or hidden textures to .png files
 - [unity-editor-icons](https://github.com/halak/unity-editor-icons) - Icons what can load using EditorGUIUtility.IconContent
-- [SaveEditorDefaultResources.cs](https://gist.github.com/eppz/bf0e0316102169445007924ae572562e) - Snippet to export Unity Editor Assets for inspection
 
 ## Prefab
 
@@ -647,7 +633,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityMarkdeepViewer](https://github.com/Sirithang/UnityMarkdeepViewer) - Allowing to display Markdown, markdeep and HMTL directly inside the Unity Editor
 - [Unity Assembly Definition Debugger.cs](https://gist.github.com/karljj1/9c6cce803096b5cd4511cf0819ff517b) - Find out what assemblies are being built and how long each takes
 - [unity-compile-before-play](https://github.com/jfranmora/unity-compile-before-play) - Add this script to compile your scripts automatically before entering play mode
-- [VikingReSize](https://github.com/norseware/VikingReSize) - Analyzes your project and displays how much space files take up specified by custom categories
 - [Unity-EdgeCollider2D-to-PolygonCollider2D-](https://github.com/JuanGdelaCruz/Unity-EdgeCollider2D-to-PolygonCollider2D-) - Editor tool which converts EdgeCollider2D to PolygonCollider2D
 - [unity-compile-in-background](https://github.com/baba-s/unity-compile-in-background) - Start compiling without having to return focus to the Unity editor after changing the script
 - [unity-productivity-tools](https://github.com/martinhodler/unity-productivity-tools) - A unity package adding features like inspector buttons, GameObject grouping and property attributes
@@ -678,7 +663,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Unity-UIGradient](https://github.com/azixMcAze/Unity-UIGradient) - UI gradient effect script
 - [StaticBluredScreen](https://github.com/mob-sakai/StaticBluredScreen) - Non-realtime screen blur
 - [BluredUGUI](https://github.com/edom18/BluredUGUI) - Blured uGUI background sample
-- [UI_Color_Blend_example](https://github.com/mochi5420/UI_Color_Blend_example) - Color blend example
 - [MirrorReflectionEffectForUGUI](https://github.com/mob-sakai/MirrorReflectionEffectForUGUI) - Simple mirror reflection effect
 - [UnityRoundedShader](https://github.com/sunduk/UnityRoundedShader) - Rounded rectangle, circle, ellipse shaders
 - [Unity-UI-Rounded-Corners](https://github.com/Nobinator/Unity-UI-Rounded-Corners) - Allows you to add rounded corners to UI elements
@@ -727,7 +711,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [runtime-object-editor](https://github.com/hwthon/runtime-object-editor) - Runtime object 
 - [unity-uitest](https://github.com/taphos/unity-uitest) - UI Test Automation Framework
 - [UnityDebugConsole](https://github.com/daemon3000/UnityDebugConsole) - In-game debug consol
-- [RuntimeEditor](https://github.com/Kink3d/RuntimeEditor) - A reflection of Unity Editor UI that works within a built player.e editor
 - [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole) - A uGUI based console to see debug messages and execute commands
 - [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector) - Runtime Inspector and Hierarchy solution for debugging and runtime editing purposes
 
@@ -816,7 +799,6 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [unity-minimap](https://github.com/pointcache/unity-minimap) - Minimap
 - [menu-circular](https://github.com/MoonAntonio/menu-circular) - Circle menu
-- [lomenui](https://github.com/Michsky/lomenui) - Stylish UI package
 - [SamplePinchScaling](https://github.com/splas-boomerang/SamplePinchScaling) - Pinch scaling
 - [Unity-SimpleSpeechBubble](https://github.com/The-CodeVillain/Unity-SimpleSpeechBubble) - Simple UGUI SpeechBubble
 
@@ -903,7 +885,6 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [Autoya](https://github.com/sassembla/Autoya) - thin framework
 - [xasset](https://github.com/fengjiyuan/xasset) - Asset bundle manager
-- [EasyAssetBundle](https://github.com/charcolle/EasyAssetBundle) - AssetBundle Tool
 - [UnityPack](https://github.com/HearthSim/UnityPack) - Python deserialization library for Asset format
 - [Unity-MultiProcess-BuildPipeline](https://github.com/jiangzhhhh/Unity-MultiProcess-BuildPipeline) - multiprocess buildpipeline
 
@@ -996,7 +977,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Typogenic](https://github.com/Chman/Typogenic) - Signed-distance field text rendering
 - [TeaTime](https://github.com/alvivar/TeaTime) - Fast & simple queue for timed callbacks
 - [Base-Helicopter-Controller](https://github.com/suncube/Base-Helicopter-Controller) - Base Helicopter Controller
-- [CoroutineHelper](https://github.com/hont127/CoroutineHelper) - The unity3d coroutine tool collections
 - [Unity_AutoHideCursor](https://github.com/XJINE/Unity_AutoHideCursor) - Hide cursor while it keep stopping
 - [Unity3D-Python-Editor](https://github.com/cesardeazevedo/Unity3D-Python-Editor) - Python editor based on IronPython
 - [unity-gb](https://github.com/KonsomeJona/unity-gb) - Game Boy emulator for Unity using C# and Mono
@@ -1095,7 +1075,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Voxelman](https://github.com/keijiro/Voxelman) - Unity ECS + C# Job System example
 - [OSMTrafficSim](https://github.com/maajor/OSMTrafficSim) - TrafficSim using Unity ECS 2019.1
 - [LuaECS](https://github.com/liuhaopen/LuaECS) - unity ecs framework implemented by Lua
-- [ECSPhysics](https://github.com/PhilSA/ECSPhysics) - A physics engine made with Unity ECS
 - [Roll-A-Ball-ECS-style](https://github.com/KptEmreU/Roll-A-Ball-ECS-style) - Recreation of Unity Roll-A-Ball tutorial
 - [Endless Runner template for Unity](https://github.com/RomanZhu/Endless-Runner-Entitas-ECS) - Runner template for Unity
 - [Svelto.ECS.Examples.Survival](https://github.com/sebas77/Svelto.ECS.Examples.Survival) - Unity based example for Svelto ECS
@@ -1124,7 +1103,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Sprites-PixelArt.shader](https://gist.github.com/talecrafter/81e2f3bb7fb4b4fc367e7b851772b646) - Pixel art shader
 - [SpriteShaderSample](https://github.com/mike-neko/SpriteShaderSample) - Sprite shader sample
 - [NextGenSprites](https://github.com/rubit0/NextGenSprites) - Some sweet sprite shaders
-- [NextGenSprites](https://github.com/rubit0/NextGenSprites) - Some sweet sprite shaders
 - [Sprites-OutlineMeter.shader](https://gist.github.com/o8que/7306c4505ffcacda0e50f529c7d4d064) - Outline shader
 - [Unity-2D-Sprite-cast-and-receive-shadows](https://github.com/anlev/Unity-2D-Sprite-cast-and-receive-shadows) - Shadow
 - [SpriteRecolourUnity](https://github.com/sinbad/SpriteRecolourUnity) - Demo project for spriterecolour
@@ -1140,7 +1118,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [SimpleSquashAndStretchMovement2D](https://github.com/keenanwoodall/SimpleSquashAndStretchMovement2D) - Squash and stretch movement
 - [SpriteLightKit](https://github.com/prime31/SpriteLightKit) - Blended lighting system for Unity that works with standard Sprites
 - [Unity-2D-Destruction](https://github.com/mjholtzem/Unity-2D-Destruction) - Breaking 2D sprites into fragments for awesome destruction effects
-- [RetroSpriteAnimator](https://github.com/dithyrambs/RetroSpriteAnimator) - Unity component for easily defining and playing 2D sprite animations in script
 - [SpritedowAnimator](https://github.com/Elendow/SpritedowAnimator) - Simple sprite animations avoiding the big and tedious Unity's Mechanim system
 - [ecs-instanced-sprite-renderer](https://github.com/toinfiniityandbeyond/ecs-instanced-sprite-renderer) - An example of a simple performant sprite renderer using new ECS system
 
@@ -1198,7 +1175,6 @@ A categorized collection of awesome Unity open source on GitHub.
 - [CarSimulator](https://github.com/jongallant/CarSimulator) - A Top Down 2D Car Simulator
 - [SimpleMeshExploder](https://github.com/unitycoder/SimpleMeshExploder) - Simple mesh exploder
 - [AngryBirdsStyleGame](https://github.com/dgkanatsios/AngryBirdsStyleGame) - Angry Birds style game
-- [Unity-Physics](https://github.com/wdonray/Unity-Physics) - Cloth and Boids Implementation
 - [Custom-2D-Colliders](https://github.com/GuyQuad/Custom-2D-Colliders) - A set of custom 2D colliders
 - [unity-mesh-smoothing](https://github.com/mattatz/unity-mesh-smoothing) - Mesh smoothing algorithm
 - [Custom-Primitive-Colliders](https://github.com/WestHillApps/Custom-Primitive-Colliders) - Custom primitive colliders
