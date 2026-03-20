@@ -713,6 +713,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityDebugConsole](https://github.com/daemon3000/UnityDebugConsole) ![GitHub last commit](https://img.shields.io/github/last-commit/daemon3000/UnityDebugConsole?logoSize=auto) - In-game debug consol
 - [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityIngameDebugConsole?logoSize=auto) - A uGUI based console to see debug messages and execute commands
 - [UnityRuntimeInspector](https://github.com/yasirkula/UnityRuntimeInspector) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityRuntimeInspector?logoSize=auto) - Runtime Inspector and Hierarchy solution for debugging and runtime editing purposes
+- [jahro-console/unity-package](https://github.com/jahro-console/unity-package) — In-game debug console & Jahro platform integration
 
 ## Layout
 
@@ -1282,6 +1283,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## AI 
 
 - [DotRecast](https://github.com/ikpil/Dotrecast) ![GitHub last commit](https://img.shields.io/github/last-commit/ikpil/Dotrecast?logoSize=auto) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+- [jahro-console/unity-agent-skills](https://github.com/jahro-console/unity-agent-skills) - Unity AI agentic skills set
 
 ## Sample Project
 
