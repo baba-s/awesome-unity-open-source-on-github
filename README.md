@@ -523,7 +523,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Bookmark
 
 - [Favourites](https://github.com/plyoung/Favourites) ![GitHub last commit](https://img.shields.io/github/last-commit/plyoung/Favourites?logoSize=auto) - Favourites Panel
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/game-development/mobile-unity) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Unity-AssetBookmarker](https://github.com/rngtm/Unity-AssetBookmarker) ![GitHub last commit](https://img.shields.io/github/last-commit/rngtm/Unity-AssetBookmarker?logoSize=auto) - Asset bookmarker
 - [Unity-WebBookmarker](https://github.com/rngtm/Unity-WebBookmarker) ![GitHub last commit](https://img.shields.io/github/last-commit/rngtm/Unity-WebBookmarker?logoSize=auto) - Tool to bookmark URL
 - [scene-view-bookmarks](https://github.com/mminer/scene-view-bookmarks) ![GitHub last commit](https://img.shields.io/github/last-commit/mminer/scene-view-bookmarks?logoSize=auto) - Bookmark scene views
