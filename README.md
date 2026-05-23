@@ -1250,6 +1250,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityHook](https://github.com/HearthSim/UnityHook) ![GitHub last commit](https://img.shields.io/github/last-commit/HearthSim/UnityHook?logoSize=auto) - Platform to hook into Unity3D assemblies
 - [UnityPacker](https://github.com/FatihBAKIR/UnityPacker) ![GitHub last commit](https://img.shields.io/github/last-commit/FatihBAKIR/UnityPacker?logoSize=auto) - Create unitypackages without unity, from command line
 
+- [com.unity.ide.antigravity](https://github.com/BadranRaza/com.unity.ide.antigravity) ![GitHub last commit](https://img.shields.io/github/last-commit/BadranRaza/com.unity.ide.antigravity?logoSize=auto) - Unity Editor integration for Google Antigravity IDE (the VS Code-based code editor split off from the standalone Antigravity 2.0 agent app at I/O 2026)
 ## Lua
 
 - [tolua_runtime](https://github.com/topameng/tolua_runtime) ![GitHub last commit](https://img.shields.io/github/last-commit/topameng/tolua_runtime?logoSize=auto) - tolua runtime library
