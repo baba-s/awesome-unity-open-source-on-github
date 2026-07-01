@@ -636,6 +636,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Unity-EdgeCollider2D-to-PolygonCollider2D-](https://github.com/JuanGdelaCruz/Unity-EdgeCollider2D-to-PolygonCollider2D-) ![GitHub last commit](https://img.shields.io/github/last-commit/JuanGdelaCruz/Unity-EdgeCollider2D-to-PolygonCollider2D-?logoSize=auto) - Editor tool which converts EdgeCollider2D to PolygonCollider2D
 - [unity-compile-in-background](https://github.com/baba-s/unity-compile-in-background) ![GitHub last commit](https://img.shields.io/github/last-commit/baba-s/unity-compile-in-background?logoSize=auto) - Start compiling without having to return focus to the Unity editor after changing the script
 - [unity-productivity-tools](https://github.com/martinhodler/unity-productivity-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/martinhodler/unity-productivity-tools?logoSize=auto) - A unity package adding features like inspector buttons, GameObject grouping and property attributes
+- [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) ![GitHub last commit](https://img.shields.io/github/last-commit/IvanMurzak/Unity-MCP?logoSize=auto) - Open-source MCP server connecting AI agents (Claude, Cursor, GitHub Copilot, Gemini, and more) to the Unity Editor and runtime, with 100+ built-in tools
 
 # UI
 
