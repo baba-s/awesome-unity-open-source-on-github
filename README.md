@@ -1319,5 +1319,5 @@ A categorized collection of awesome Unity open source on GitHub.
 
 ## Motion Capture
 
-- [Body-motion-capture-and-animation-in-Unity](https://github.com/ShutovKS/Body-motion-capture-and-animation-in-Unity) ![GitHub last commit](https://img.shields.io/github/last-commit/ShutovKS/Body-motion-capture-and-animation-in-Unity?logoSize=auto) - Body motion capture with Python and OpenCV, real-time transfer to Unity, and character animation using IK
-- [Hand-motion-capture-and-animation-in-Unity](https://github.com/ShutovKS/Hand-motion-capture-and-animation-in-Unity) ![GitHub last commit](https://img.shields.io/github/last-commit/ShutovKS/Hand-motion-capture-and-animation-in-Unity?logoSize=auto) - Hand motion capture with Python and OpenCV, real-time transfer to Unity, and hand animation
+- [Body-motion-capture-and-animation-in-Unity](https://github.com/SkS-GameDev/Body-motion-capture-and-animation-in-Unity) ![GitHub last commit](https://img.shields.io/github/last-commit/SkS-GameDev/Body-motion-capture-and-animation-in-Unity?logoSize=auto) - Body motion capture with Python and OpenCV, real-time transfer to Unity, and character animation using IK
+- [Hand-motion-capture-and-animation-in-Unity](https://github.com/SkS-GameDev/Hand-motion-capture-and-animation-in-Unity) ![GitHub last commit](https://img.shields.io/github/last-commit/SkS-GameDev/Hand-motion-capture-and-animation-in-Unity?logoSize=auto) - Hand motion capture with Python and OpenCV, real-time transfer to Unity, and hand animation
