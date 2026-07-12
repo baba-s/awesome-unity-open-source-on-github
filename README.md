@@ -1316,3 +1316,8 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Cut-the-Rope-Replica](https://github.com/Brackeys/Cut-the-Rope-Replica) ![GitHub last commit](https://img.shields.io/github/last-commit/Brackeys/Cut-the-Rope-Replica?logoSize=auto) - This is the source code for a Cut the Rope replica created during a Twitch Livestream
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners?logoSize=auto) - how to implement SSAO, depth of field, lighting, normal mapping, and more
 - [UnityGameTemplate](https://github.com/Team-on/UnityGameTemplate) ![GitHub last commit](https://img.shields.io/github/last-commit/Team-on/UnityGameTemplate?logoSize=auto) - Template with all necessary stuff taken care, just create your games main features
+
+## Motion Capture
+
+- [Body-motion-capture-and-animation-in-Unity](https://github.com/SkS-GameDev/Body-motion-capture-and-animation-in-Unity) ![GitHub last commit](https://img.shields.io/github/last-commit/SkS-GameDev/Body-motion-capture-and-animation-in-Unity?logoSize=auto) - Body motion capture with Python and OpenCV, real-time transfer to Unity, and character animation using IK
+- [Hand-motion-capture-and-animation-in-Unity](https://github.com/SkS-GameDev/Hand-motion-capture-and-animation-in-Unity) ![GitHub last commit](https://img.shields.io/github/last-commit/SkS-GameDev/Hand-motion-capture-and-animation-in-Unity?logoSize=auto) - Hand motion capture with Python and OpenCV, real-time transfer to Unity, and hand animation
