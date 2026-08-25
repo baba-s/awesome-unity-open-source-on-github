@@ -881,6 +881,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UniDebugPanel](https://github.com/baba-s/uni-debug-panel) ![GitHub last commit](https://img.shields.io/github/last-commit/baba-s/uni-debug-panel?logoSize=auto) - You can display customizable buttons for debugging in the game
 - [unity3d-runtime-debug-draw](https://github.com/jagt/unity3d-runtime-debug-draw) ![GitHub last commit](https://img.shields.io/github/last-commit/jagt/unity3d-runtime-debug-draw?logoSize=auto) - single file debuging DrawLine/DrawText/etc that works in both Scene/Game view
 
+- [Rekon-unity](https://github.com/RekonOps/Rekon-unity) ![GitHub last commit](https://img.shields.io/github/last-commit/RekonOps/Rekon-unity?logoSize=auto) - Bug capture SDK for Unity. A rolling buffer records Play Mode; one hotkey saves the last 60s of video, logs, and game state to a web dashboard and Jira
 ## Asset Bundle
 
 - [Autoya](https://github.com/sassembla/Autoya) ![GitHub last commit](https://img.shields.io/github/last-commit/sassembla/Autoya?logoSize=auto) - thin framework
