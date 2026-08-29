@@ -1018,6 +1018,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UniState](https://github.com/bazyleu/UniState) ![GitHub last commit](https://img.shields.io/github/last-commit/bazyleu/UniState?logoSize=auto) - UniState is a modern, high-performance, scalable state machine package for Unity.
 
 # Mobile
+- [GameFrameX](https://github.com/GameFrameX/GameFrameX) ![GitHub last commit](https://img.shields.io/github/last-commit/GameFrameX/GameFrameX?logoSize=auto) - Cross-engine game framework (Unity/Godot clients) with an actor-model .NET game server, hot-update on both ends, AI-agent instruction docs in-repo
 
 ## iOS / Android
 
