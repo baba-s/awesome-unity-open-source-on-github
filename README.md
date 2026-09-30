@@ -709,6 +709,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [collider-visualizer](https://github.com/tomoriaki/collider-visualizer) ![GitHub last commit](https://img.shields.io/github/last-commit/tomoriaki/collider-visualizer?logoSize=auto) - Collider visualizer
 - [consolation](https://github.com/mminer/consolation) ![GitHub last commit](https://img.shields.io/github/last-commit/mminer/consolation?logoSize=auto) - In-game debug console
 - [runtime-object-editor](https://github.com/hwthon/runtime-object-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/hwthon/runtime-object-editor?logoSize=auto) - Runtime object 
+- [Unity-Dev-Console](https://github.com/kureysalp/Unity-Dev-Console) ![GitHub last commit](https://img.shields.io/github/last-commit/kureysalp/Unity-Dev-Console?logoSize=auto) - Drop-down developer console with typed commands
 - [unity-uitest](https://github.com/taphos/unity-uitest) ![GitHub last commit](https://img.shields.io/github/last-commit/taphos/unity-uitest?logoSize=auto) - UI Test Automation Framework
 - [UnityDebugConsole](https://github.com/daemon3000/UnityDebugConsole) ![GitHub last commit](https://img.shields.io/github/last-commit/daemon3000/UnityDebugConsole?logoSize=auto) - In-game debug consol
 - [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityIngameDebugConsole?logoSize=auto) - A uGUI based console to see debug messages and execute commands
