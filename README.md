@@ -483,6 +483,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityScreenShooter](https://github.com/Team-on/UnityScreenShooter) ![GitHub last commit](https://img.shields.io/github/last-commit/Team-on/UnityScreenShooter?logoSize=auto) - Screenshot utility for Unity runtime & editor
 - [UnityBuildManager](https://github.com/Team-on/UnityBuildManager) ![GitHub last commit](https://img.shields.io/github/last-commit/Team-on/UnityBuildManager?logoSize=auto) - Utility for running builds sequence & pushing them to markets & keeping changelog
 - [CustomToolbar](https://github.com/smkplus/CustomToolbar) ![GitHub last commit](https://img.shields.io/github/last-commit/smkplus/CustomToolbar?logoSize=auto) - Custom toolbar with ability do add new toolbars and reorganize it
+- [dataforge-lite](https://github.com/Ragendom69/dataforge-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/Ragendom69/dataforge-lite?logoSize=auto) - Spreadsheet editor window for ScriptableObjects (one row per asset, one column per field)
 
 ## Asset
 
