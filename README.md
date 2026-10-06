@@ -1041,6 +1041,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [SystemVolumePlugin-for-Unity](https://github.com/hiyorin/SystemVolumePlugin-for-Unity) ![GitHub last commit](https://img.shields.io/github/last-commit/hiyorin/SystemVolumePlugin-for-Unity?logoSize=auto) - A set of tools to allow handling system volume for Android and iOS
 - [unity-native-sharing](https://github.com/ChrisMaire/unity-native-sharing) ![GitHub last commit](https://img.shields.io/github/last-commit/ChrisMaire/unity-native-sharing?logoSize=auto) - Open native sharing dialogs on iOS and Android, primarily for sharing screenshots
 - [Unity Native Share Plugin](https://github.com/yasirkula/UnityNativeShare) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityNativeShare) - Natively share files (images, videos, documents, etc.) and/or plain text on Android & iOS
+- [unity-admob-ads](https://github.com/satisvizion/unity-admob-ads) ![GitHub last commit](https://img.shields.io/github/last-commit/satisvizion/unity-admob-ads?logoSize=auto) - AdMob rewarded / interstitial / banner behind one async API, with UMP consent and an editor mock
 
 ## iOS
 
